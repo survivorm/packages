@@ -9357,5 +9357,21 @@
     "description": "Executable for finding information about programs in PATH",
     "license": "MIT",
     "web": "https://github.com/aleandros/about"
+  },
+  {
+    "name": "nimbgpdump",
+    "url": "https://github.com/survivorm/nimlibbgpdump",
+    "method": "git",
+    "tags": [
+      "BGP",
+      "MRT",
+      "Quagga/Zebra",
+      "network",
+      "routes",
+      "prefixes"
+    ],
+    "description": "libbgpdump wrapper in Nim",
+    "license": "GPLv2",
+    "web": "https://github.com/survivorm/nimlibbgpdump"
   }
 ]
